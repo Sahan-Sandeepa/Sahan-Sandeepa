@@ -17,14 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Sandeepa&size_weight=0.5&count_weight=0.5)](https://github.com/Sahan-Sandeepa/github-readme-stats)
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Sahan-Sandeepa&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Sahan-Sandeepa&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sahan-Sandeepa&show_icons=true" />
-</picture>
+![Sahan-Sandeepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahan-Sandeepaa&show_icons=true&theme=radical&rank_icon=github)
