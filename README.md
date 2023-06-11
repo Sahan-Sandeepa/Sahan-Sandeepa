@@ -1,8 +1,11 @@
-![codercat](https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/7d29909f-9990-4769-b897-8f65444c6363)
-
-
 ### Hi 👋 I'm Sahan Sandeepa 
 
+<hr/>
+
+<p align="center">
+  <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/7d29909f-9990-4769-b897-8f65444c6363" alt="codercat" height="400" style="opacity: 0.5; background-color: rgba(255, 255, 255, 0.5);">
+  <hr/>
+</p>
 
 <!-- **Sahan-Sandeepa/Sahan-Sandeepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
