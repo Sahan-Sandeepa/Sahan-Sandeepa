@@ -14,6 +14,8 @@
 ![Tools](https://img.shields.io/badge/Tools-Postman%20%7C%20Git%20%7C%20VS%20Code-important)
 
 ## GitHub Stats
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Sandeepa&theme=dark)
+
 ![Sahan-Sandeepa's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sahan-Sandeepa&show_icons=true&theme=radical&rank_icon=github&bg_color=fffefe&text_color=434d58&icon_color=4c71f2&ring_color=4c71f2&theme=transparent)
 
 ## Top Languages
@@ -26,7 +28,7 @@
 </details>
 
 ## Connect with Me
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:sahansandeepa0003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:sahansandeepa0003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://lk.linkedin.com/in/sahan-sandeepa-jayawardhana-225687259?trk=public_profile_samename-profile)
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Website-lightgrey)](https://sahan-sandeepa.github.io/iPortfolio/)
 
