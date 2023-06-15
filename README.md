@@ -12,9 +12,9 @@
 - ⚡ Fun fact: I enjoy watching movies and listening to music
 
 ## Skills
-![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20React%20%7C%20Java%20%7C%20Python-blueviolet)
-![Frameworks](https://img.shields.io/badge/Frameworks-Mern%20%7C%20Springboot%20%7C%20Express-success)
-![Tools](https://img.shields.io/badge/Tools-Postman%20%7C%20Git%20%7C%20VS%20Code-important)
+![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20React%20%7C%20Java%20%7C%20Python%20%7C%20SQL%20%7C%20C%20%7C%20C++-blueviolet)
+![Frameworks](https://img.shields.io/badge/Frameworks-Mern%20%7C%20Springboot%20%7C%20Express%20%7C%20Bootstrap%20%7C%20Tailwind%20%7C%20npm-success)
+![Tools](https://img.shields.io/badge/Tools-Postman%20%7C%20Git%20%7C%20VS%20Code%20%7C%20Android%20Studio%20%7C%20Eclipse%20%7C%20Visual%20Studio%20%7C%20MongoDB%20Compass-important)
 
 ## GitHub Stats
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Sandeepa&theme=dark)
