@@ -1,4 +1,15 @@
-<h1 align="center">Welcome to My GitHub Profile <span class="wave">👋</span></h1>
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(10deg); }
+  20% { transform: rotate(-10deg); }
+  30% { transform: rotate(10deg); }
+  40% { transform: rotate(-10deg); }
+  50% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
+<h1 align="center">Welcome to My GitHub Profile <span style="display: inline-block; animation: wave 2s infinite;">👋</span></h1>
 <p align="center">
   <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/60c77d63-b6a5-4c0d-a4d6-83d112f77147" alt="codercat" height="400" style="opacity: 0.5; background-color: rgba(255, 255, 255, 0.5);">
 </p>
