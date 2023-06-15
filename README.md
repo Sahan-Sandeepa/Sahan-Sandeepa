@@ -1,4 +1,8 @@
-<h1 align="center">Welcome to My GitHub Profile <span style="display: inline-block; animation: wave 2s infinite;">👋</span></h1>
+<div align="center">
+  <h1>Welcome to My GitHub Profile <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/9d3f420b-ad1e-45b8-8ec3-e340888cb705" alt="wave-animation" height="27" style="pointer-events: none; max-width: 100px;"></h1>
+</div>
+
+
 <p align="center">
   <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/60c77d63-b6a5-4c0d-a4d6-83d112f77147" alt="codercat" height="400" style="opacity: 0.5; background-color: rgba(255, 255, 255, 0.5);">
 </p>
