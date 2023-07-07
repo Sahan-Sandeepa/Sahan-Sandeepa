@@ -22,7 +22,7 @@
 ![Sahan-Sandeepa's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sahan-Sandeepa&show_icons=true&theme=radical&rank_icon=github&bg_color=fffefe&text_color=434d58&icon_color=4c71f2&ring_color=4c71f2&theme=transparent)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Sandeepa&size_weight=0.1&count_weight=1&layout=compact&langs_count=24)](https://github.com/Sahan-Sandeepa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Sandeepa&size_weight=0.01&count_weight=1&layout=compact&langs_count=24)](https://github.com/Sahan-Sandeepa/github-readme-stats)
 
 <details>
   <summary>Click to expand GitHub Trophies</summary>
