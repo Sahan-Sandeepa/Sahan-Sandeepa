@@ -33,7 +33,7 @@
 ## Connect with Me
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:sahansandeepa0003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://lk.linkedin.com/in/sahan-sandeepa-jayawardhana-225687259?trk=public_profile_samename-profile)
-[![Website](https://img.shields.io/badge/Website-Visit%20My%20Website-lightgrey)](https://sahan-sandeepa.github.io/iPortfolio/)
+<!--[![Website](https://img.shields.io/badge/Website-Visit%20My%20Website-lightgrey)](https://sahan-sandeepa.github.io/iPortfolio/) -->
 
 <!-- <details>
   <summary>Click to expand Projects</summary>
