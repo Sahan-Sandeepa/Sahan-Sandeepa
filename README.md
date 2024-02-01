@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to My GitHub Profile <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/9d3f420b-ad1e-45b8-8ec3-e340888cb705" alt="wave-animation" height="27" style="cursor: default;"></h1>
+  <h1>Welcome To My GitHub Profile <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/9d3f420b-ad1e-45b8-8ec3-e340888cb705" alt="wave-animation" height="27" style="cursor: default;"></h1>
 </div>
 
 <p align="center">
