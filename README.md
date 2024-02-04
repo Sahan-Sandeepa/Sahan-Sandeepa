@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Welcome To My GitHub Profile <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/9d3f420b-ad1e-45b8-8ec3-e340888cb705" alt="wave-animation" height="27" style="cursor: default;"></h1>
+  <h1> Hi, I'm Sahan Sandeepa Jayawardhana</h1>
 </div>
 
 <p align="center">
-  <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/60c77d63-b6a5-4c0d-a4d6-83d112f77147" alt="codercat" height="400" style="opacity: 0.5; background-color: rgba(255, 255, 255, 0.5);">
+  <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/60c77d63-b6a5-4c0d-a4d6-83d112f77147" alt="codercat" height="300" style="opacity: 0.5; background-color: rgba(255, 255, 255, 0.5);">
 </p>
 
-## About Me
+## About Me <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/9d3f420b-ad1e-45b8-8ec3-e340888cb705" alt="wave-animation" height="27" style="cursor: default;">
 - 🌱 I’m currently studying as an undergraduate at SLIIT
 - 👯 I’m looking to collaborate on more projects
 - ⚡ Fun fact: I enjoy watching movies and listening to music
