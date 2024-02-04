@@ -16,8 +16,8 @@
 ![Frameworks](https://img.shields.io/badge/Frameworks-Mern%20%7C%20Springboot%20%7C%20Express%20%7C%20Bootstrap%20%7C%20Tailwind-success)
 ![Tools](https://img.shields.io/badge/Tools-Postman%20%7C%20Git%20%7C%20VS%20Code%20%7C%20Android%20Studio%20%7C%20Eclipse%20%7C%20Visual%20Studio%20%7C%20MongoDB%20Compass-important)
 
-<!--## GitHub Stats
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Sandeepa&theme=dark)-->
+## GitHub Stats
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Sandeepa&theme=dark)
 
 ![Sahan-Sandeepa's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sahan-Sandeepa&show_icons=true&theme=radical&rank_icon=github&bg_color=fffefe&text_color=434d58&icon_color=4c71f2&ring_color=4c71f2&theme=transparent)
 
