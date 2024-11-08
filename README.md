@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi, I'm Sahan Sandeepa Jayawardhana <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" alt="Bounce Animation" height="38" style="cursor: default; opacity: 0.9; vertical-align: middle;"></h1>
+  <h1> Hi, I'm Sahan Sandeepa <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" alt="Bounce Animation" height="38" style="cursor: default; opacity: 0.9; vertical-align: middle;"></h1>
 </div>
 
 <p align="center">
