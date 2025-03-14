@@ -7,9 +7,9 @@
 </p>
 
 ## About Me <img src="https://github.com/Sahan-Sandeepa/Sahan-Sandeepa/assets/122716935/9d3f420b-ad1e-45b8-8ec3-e340888cb705" alt="wave-animation" height="27" style="cursor: default;">
-- 🌱 I’m currently studying as an undergraduate at SLIIT
+- 🌱 I’m a fresh graduate of SLIIT
 - 👯 I’m looking to collaborate on more projects
-- ⚡ Fun fact: I enjoy watching movies and listening to music
+- ⚡ Fun fact: Curiosity doesn't always kill the cat😺
 
 ## Skills <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/beaming_face_with_smiling_eyes_256_2.gif" alt="Bounce Animation" height="28" style="cursor: default; opacity: 0.9;">
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20React%20%7C%20Java%20%7C%20Python%20%7C%20SQL%20%7C%20C%20%7C%20C++-blueviolet)
