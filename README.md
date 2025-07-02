@@ -15,7 +15,7 @@
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20React%20%7C%20Java%20%7C%20Python%20%7C%20SQL%20%7C%20C%20%7C%20C++-blueviolet)
 ![Frameworks](https://img.shields.io/badge/Frameworks-Mern%20%7C%20Springboot%20%7C%20Express%20%7C%20Bootstrap%20%7C%20Tailwind-success)
 ![Tools](https://img.shields.io/badge/Tools-Postman%20%7C%20Git%20%7C%20VS%20Code%20%7C%20Android%20Studio%20%7C%20Eclipse%20%7C%20Visual%20Studio%20%7C%20MongoDB%20Compass-important)
-
+<!--
 ## GitHub Stats <img src="https://cdn.pixabay.com/animation/2023/03/19/15/09/15-09-56-389_512.gif" alt="Chart Animation" height="28" style="cursor: default; opacity: 0.9;">
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Sandeepa&theme=dark)
 
@@ -23,7 +23,7 @@
 
 ## Top Languages <img src="https://i.gifer.com/origin/21/21ad5d3d2d3b26b481a224a24352cb43_w200.gif" alt="Chart Animation" height="22" style="cursor: default; opacity: 1;">
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sahan-Sandeepa&size_weight=0.1&count_weight=1&layout=compact&langs_count=20)](https://github.com/Sahan-Sandeepa/github-readme-stats)
-
+-->
 <details>
   <summary>Click to expand GitHub Trophies</summary>
 
